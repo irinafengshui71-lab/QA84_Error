@@ -6,8 +6,8 @@ public class HWProduct {
 
     @Override
     public String toString() {
-        return "HWProduct{" +
-                "name='" + name + '\'' +
+        return "HWProduct {" +
+                " name='" + name + '\'' +
                 ", code=" + code +
                 ", price=" + price +
                 '}';
